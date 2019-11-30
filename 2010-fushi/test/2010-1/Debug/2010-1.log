@@ -1,0 +1,4 @@
+﻿  源.cpp
+h:\cpp-kaoyan\2010-fushi\test\2010-1\源.cpp(36): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  2010-1.vcxproj -> H:\cpp-kaoyan\2010-fushi\test\Debug\2010-1.exe
+  2010-1.vcxproj -> H:\cpp-kaoyan\2010-fushi\test\Debug\2010-1.pdb (Full PDB)

@@ -1,0 +1,7 @@
+﻿  源.cpp
+h:\cpp-kaoyan\2010-fushi\test\2010-3\源.cpp(23): warning C4101: “mail”: 未引用的局部变量
+h:\cpp-kaoyan\2010-fushi\test\2010-3\源.cpp(22): warning C4101: “bianhao”: 未引用的局部变量
+h:\cpp-kaoyan\2010-fushi\test\2010-3\源.cpp(20): warning C4101: “quhao”: 未引用的局部变量
+h:\cpp-kaoyan\2010-fushi\test\2010-3\源.cpp(21): warning C4101: “telephone”: 未引用的局部变量
+  2010-3.vcxproj -> H:\cpp-kaoyan\2010-fushi\test\Debug\2010-3.exe
+  2010-3.vcxproj -> H:\cpp-kaoyan\2010-fushi\test\Debug\2010-3.pdb (Full PDB)
