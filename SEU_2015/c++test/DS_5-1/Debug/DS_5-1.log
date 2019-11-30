@@ -1,0 +1,4 @@
+﻿  源.cpp
+h:\cpp-kaoyan\seu_2015\c++test\ds_5-1\源.cpp(9): warning C4101: “temp”: 未引用的局部变量
+  DS_5-1.vcxproj -> H:\cpp-kaoyan\SEU_2015\c++test\Debug\DS_5-1.exe
+  DS_5-1.vcxproj -> H:\cpp-kaoyan\SEU_2015\c++test\Debug\DS_5-1.pdb (Full PDB)

@@ -1,0 +1,30 @@
+﻿  源.cpp
+h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(35): error C2131: 表达式的计算结果不是常数
+  h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(35): note: 非常量参数或对非常量符号的引用导致了故障
+  h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(35): note: 请参见“str1”的用法
+h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(36): error C2131: 表达式的计算结果不是常数
+  h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(36): note: 非常量参数或对非常量符号的引用导致了故障
+  h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(36): note: 请参见“str2”的用法
+h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(73): warning C4018: “<=”: 有符号/无符号不匹配
+h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(37): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(38): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(41): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(46): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(49): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(55): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(63): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+h:\cpp-kaoyan\2019-fushi_wangan\2019-wangan\2019-3\源.cpp(67): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明

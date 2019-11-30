@@ -1,0 +1,5 @@
+﻿  源.cpp
+h:\cpp-kaoyan\2017-fushi\2017\2017-3\源.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+h:\cpp-kaoyan\2017-fushi\2017\2017-3\源.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+  2017-3.vcxproj -> H:\cpp-kaoyan\2017-fushi\2017\Debug\2017-3.exe
+  2017-3.vcxproj -> H:\cpp-kaoyan\2017-fushi\2017\Debug\2017-3.pdb (Full PDB)

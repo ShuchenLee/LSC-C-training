@@ -1,0 +1,7 @@
+﻿  源.cpp
+h:\cpp-kaoyan\2018-fushi\2018\2018-2\源.cpp(15): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+h:\cpp-kaoyan\2018-fushi\2018\2018-2\源.cpp(29): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+h:\cpp-kaoyan\2018-fushi\2018\2018-2\源.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+  2018-2.vcxproj -> H:\cpp-kaoyan\2018-fushi\2018\Debug\2018-2.exe
+  2018-2.vcxproj -> H:\cpp-kaoyan\2018-fushi\2018\Debug\2018-2.pdb (Full PDB)

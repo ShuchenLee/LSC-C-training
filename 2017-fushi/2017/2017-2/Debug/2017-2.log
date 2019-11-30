@@ -1,0 +1,4 @@
+﻿  源.cpp
+h:\cpp-kaoyan\2017-fushi\2017\2017-2\源.cpp(18): error C2040: “month”:“int”与“std::string [13]”的间接寻址级别不同
+h:\cpp-kaoyan\2017-fushi\2017\2017-2\源.cpp(20): error C2088: “>>”: 对于 class 非法
+h:\cpp-kaoyan\2017-fushi\2017\2017-2\源.cpp(21): error C2107: 非法索引，不允许间接寻址

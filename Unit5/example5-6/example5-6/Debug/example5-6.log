@@ -1,0 +1,4 @@
+﻿  源.cpp
+h:\cpp-kaoyan\unit5\example5-6\example5-6\源.cpp(18): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  example5-6.vcxproj -> H:\cpp-kaoyan\Unit5\example5-6\Debug\example5-6.exe
+  example5-6.vcxproj -> H:\cpp-kaoyan\Unit5\example5-6\Debug\example5-6.pdb (Full PDB)
